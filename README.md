@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Michele Magurno</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/NxfN.gif"> 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzN2OTd2MDB1cHAzbWN1ZmJidjI0b2duNzJ4anpuODM5N2xsM2g1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michele872&label=Profile%20views&color=0e75b6&style=flat" alt="michele872" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michele872" alt="michele872" /></a> </p>
